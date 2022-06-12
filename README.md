@@ -1,7 +1,14 @@
-### Hey there, I'm Gautam. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm Gautam. <img src="https://rishavanand.github.io/static/images/greetings.gif" width="500" >
+<hr>
+<h3> 👨🏻‍💻 About </h3>
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, JavaScript, APIs .
-
+- 🔭 &nbsp; Experienced with : React, JavaScript, Java, MERN, NodeJS
+- 🤔 &nbsp; Blog on 
+- 🎓 &nbsp; 2019 Grad, @CVRCE, India
+- 💼 &nbsp; Software Engineer @[Ferns N Petals](https://fnp.com)
+- 🌱 &nbsp; Write JS, Java
+- ✍️ &nbsp; I love teaching code as much as I love to code
+- ☕ &nbsp; My best code comes out when I am around tea
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
