@@ -2,13 +2,14 @@
 <hr>
 <h3> 👨🏻‍💻 About </h3>
 
-- 🔭 &nbsp; Experienced with : React, Redux, JavaScript, Java.
+- 🔭 &nbsp; Experienced with : React, Redux, JavaScript, Java, CSS
 - 🌱 &nbsp; I’m currently learning **Nodejs, Expressjs, mongodb**
 - 🎓 &nbsp; 2019 Grad, @CVRCE, India
+- 🎓 &nbsp; 2022 Grad, @CRIO, Full Stack Program
 - 💼 &nbsp; Software Engineer @[Ferns N Petals](https://fnp.com)
 - 🌱 &nbsp; Write JS, React, Java
 - 💬  &nbsp; Ask me about **react, redux, JavaScript, Nodejs, Expressjs**
-- 📫  &nbsp; How to reach me **gautamkr1876@gmail.com**
+- 📫  &nbsp; How to reach me gautamkr1876@gmail.com
 - ☕ &nbsp; My best code comes out when I am around tea
 
 <h3>🛠 Tech Stack</h3>
