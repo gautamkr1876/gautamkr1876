@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; React | Redux | JavaScript | CSS
+- 💻 &nbsp; React | Redux | JavaScript | CSS | NextJs | TypeScript
 - 🌐 &nbsp; Nodejs | Expresjs | Java
 - 🛢 &nbsp; MongoDB | MySQL
 
